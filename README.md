@@ -4,4 +4,4 @@ This data analysis project involves exploring and analyzing a dataset related to
 
 Feature engineering is performed by creating new variables to enhance predictive capabilities. The primary machine learning model used is Logistic Regression, and its performance is assessed using accuracy scores in a cross-validated framework. Additionally, a Random Forest model is implemented and evaluated. 
 
-The project aims to provide insights into factors influencing loan approval and to build accurate predictive models for future loan applications.
+The project aims to provide insights into factors influencing loan approval and to build accurate predictive models for future loan Applications.
